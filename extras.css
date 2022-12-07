@@ -1,0 +1,51 @@
+      
+      
+      /* <img id="bgfastfood" src="imgfastfood/bgfastfood.jpg" alt="error"> 
+      
+      .titleService{
+
+      margin-left: 150px;
+      margin-top: 0px; 
+      color: black;
+      font-size: 40px;
+      align-content: center;
+      animation-name: titleservice;
+      animation-duration: 8s;
+      animation-iteration-count: 1;
+
+      }
+      @keyframes titleservice {
+
+            from{
+                  transform: translateX(500px);
+                  color: black;
+            }
+            to{
+                  transform: translateX(0px);
+                  color: aliceblue;
+            }
+      }  */
+
+
+
+
+      /* 
+      #topbar{
+      
+      position: relative;             for #topbar::before: ;
+      
+      }
+
+      #topbar::before{
+
+      content: "";
+      background: rgba(0, 0, 0, 0.451) url("imgfastfood/bgfastfood.jpg");
+      position: absolute;
+      top: 80px;
+      height: 440%;
+      width: 500%;
+      z-index: -1;
+      opacity: 0.4;
+      
+
+} */
